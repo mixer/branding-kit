@@ -1,4 +1,4 @@
-# Beam Branding Kit
+# Beam Branding Kit [![](https://badges.gitter.im/MCProHosting/beam.png)](https://gitter.im/MCProHosting/beam-dev)
 
 This package contains copyrighted graphical resources for the [Beam](https://beam.pro) website and brand made by the [Beam Team](https://www.beam.pro/about/).
 
