@@ -2,7 +2,7 @@
 
 This package contains copyrighted graphical resources for the [Beam](https://beam.pro) website and brand made by the [Beam Team](https://www.beam.pro/about/).
 
-If you have questions regarding the resources or their usage, or you wish to ask for permission feel free to contact us via [our support](https://www.beam.pro/contact) or our official [Twitter account](https://twitter.com/WatchBeam).
+If you have questions regarding the resources or their usage, or you wish to ask for permission feel free to contact us via [our support](https://www.beam.pro/contact) or our official [Twitter account](https://twitter.com/Beam).
 
 ### What’s inside
 
