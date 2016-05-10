@@ -11,7 +11,7 @@ If you have questions regarding the resources or their usage, or you wish to ask
 
 ## Branding Kit Rules & Guidelines
 
-Thanks for your interest in showing your support for [Beam](https://beam.pro/)! You may use any of the branding within this folder as long as you adhere to the our [Terms of Service], and the guidlines defined below:
+Thanks for your interest in showing your support for [Beam](https://beam.pro/)! You may use any of the branding within this folder as long as you adhere to the our [Terms of Service](https://beam.pro/legal/tos), and the guidlines defined below:
 
 ### What can I use this branding kit for?
 
