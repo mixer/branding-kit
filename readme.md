@@ -1,4 +1,4 @@
-# Beam Branding Kit [![Twitter Follow](https://img.shields.io/twitter/follow/Beam.svg?style=social?style=flat-square)](https://twitter.com/Beam) [![](https://badges.gitter.im/MCProHosting/beam.png)](https://gitter.im/MCProHosting/beam-dev)
+# Beam Branding Kit [![Twitter Follow](https://img.shields.io/twitter/follow/Beam.svg?style=social&label=@Beam&style=flat-square)](http://www.twitter.com/Beam)[![](https://badges.gitter.im/MCProHosting/beam.png)](https://gitter.im/MCProHosting/beam-dev)
 
 This package contains copyrighted graphical resources for the [Beam](https://beam.pro) website and brand made by the [Beam Team](https://www.beam.pro/about/).
 
