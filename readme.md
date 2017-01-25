@@ -24,3 +24,4 @@ Thanks for your interest in showing your support for [Beam](https://beam.pro/)! 
  - You cannot use Beam’s logos or assets to display yourself as an employee or official representing Beam
  - You cannot use our logos or assets for commercial purposes (i.e., merchandising)
  - You may not modify the logos or assets in any way (distorting, changing colors, incorporating into your own branding, etc)
+ 
