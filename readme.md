@@ -1,4 +1,4 @@
-# Mixer Branding Kit 
+# Mixer Branding Kit [![Twitter Follow](https://img.shields.io/twitter/follow/WatchMixer.svg?style=social&label=@WatchMixer&style=flat-square)](http://www.twitter.com/WatchMixer)
 
 This package contains copyrighted graphical resources for the [Mixer](https://mixer.com) website and brand made by the [Mixer Team](https://www.mixer.com/about/).
 
